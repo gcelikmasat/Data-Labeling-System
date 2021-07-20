@@ -6,7 +6,7 @@ ___
 > 
 > Collaborators:
 > 
-> Gökberk Çelikmasat
+> Gökberk Çelikmasat 
 > Erhan Yalnız ([Profile](https://github.com/erhanyalniz)) 
 > Kadir Acun ([Profile](https://github.com/kadiracunn)) 
 > Şeref Kuray Akgün ([Profile](https://github.com/kutayakgn)) 
