@@ -6,11 +6,11 @@ ___
 > 
 > Collaborators:
 > 
-> Gökberk Çelikmasat 
-> Erhan Yalnız ([Profile](https://github.com/erhanyalniz)) 
-> Kadir Acun ([Profile](https://github.com/kadiracunn)) 
-> Şeref Kuray Akgün ([Profile](https://github.com/kutayakgn)) 
-> Zeynep Ferah Akkurt ([Profile](https://github.com/zefea)) 
-> Merve Rana Kızıl ([Profile](https://github.com/ranakizil)) 
+>  Gökberk Çelikmasat
+>  Erhan Yalnız ([Profile](https://github.com/erhanyalniz)) 
+>  Kadir Acun ([Profile](https://github.com/kadiracunn)) 
+>  Şeref Kuray Akgün ([Profile](https://github.com/kutayakgn)) 
+>  Zeynep Ferah Akkurt ([Profile](https://github.com/zefea)) 
+>  Merve Rana Kızıl ([Profile](https://github.com/ranakizil)) 
 >  
 ___  
