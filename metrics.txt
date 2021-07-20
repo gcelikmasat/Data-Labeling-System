@@ -1,0 +1,134 @@
+********Dataset1 Sentiment Dataset Metrics********
+Percentage of the instances are labeled in dataset 1 : %20.0
+Class distribution based on final instance labels: 
+1: Positive: %50.0
+2: Negative: %0.0
+3: Notr: %50.0
+List number of unique instances for each class label: 
+1: Positive: [1]
+2: Negative: [1]
+3: Notr: [2]
+Number of users assigned: 7
+completeness percentage of user 1: %0.0
+completeness percentage of user 2: %0.0
+completeness percentage of user 3: %0.0
+completeness percentage of user 4: %0.0
+completeness percentage of user 6: %0.0
+completeness percentage of user 7: %20.0
+completeness percentage of user 8: %0.0
+
+consistency percentage of user 1: %0.0
+consistency percentage of user 2: %0.0
+consistency percentage of user 3: %0.0
+consistency percentage of user 4: %0.0
+consistency percentage of user 6: %0.0
+consistency percentage of user 7: %50.0
+consistency percentage of user 8: %0.0
+
+*************** Instance Metrics ***************
+Instance: 1
+Total number of assignment = 3
+Number of unique label assignments: 2
+Number of unique users:0
+List class labels and percentages: 
+Max frequency label:  1:Positive %:66.66666666666666
+Final label:: 1:Positive
+1:Positive: %66.66666666666666
+2:Negative: %33.33333333333333
+Entropy: 
+-1*0.6666666666666665*log(0.6666666666666665;2)-1*0.33333333333333326*log(0.33333333333333326;2)
+Result: = 0.9182958340544898
+
+Instance: 2
+Total number of assignment = 1
+Number of unique label assignments: 1
+Number of unique users:0
+List class labels and percentages: 
+Max frequency label:  3:Notr %:100.0
+Final label:: 3:Notr
+3:Notr: %100.0
+Entropy: 
+
+Result: = 0.0
+
+*************** User Metrics ***************
+
+User: 1
+Number of datasets assigned: 2
+List of all datasets with their completeness percentage: Sentiment Dataset: %0.0	Multilabel Topic Classification Dataset: %0.0	
+Total number of instances labeled: 0
+Total number of unique instances labeled: 0
+Consistency percentage of user 1: %0.0
+Average time spent in labeling an instance in seconds: 0
+Std. dev. of  time spent in labeling an instance in second: NaN
+
+
+User: 2
+Number of datasets assigned: 2
+List of all datasets with their completeness percentage: Sentiment Dataset: %0.0	Multilabel Topic Classification Dataset: %0.0	
+Total number of instances labeled: 0
+Total number of unique instances labeled: 0
+Consistency percentage of user 2: %0.0
+Average time spent in labeling an instance in seconds: 0
+Std. dev. of  time spent in labeling an instance in second: NaN
+
+
+User: 3
+Number of datasets assigned: 1
+List of all datasets with their completeness percentage: Sentiment Dataset: %0.0	
+Total number of instances labeled: 0
+Total number of unique instances labeled: 0
+Consistency percentage of user 3: %0.0
+Average time spent in labeling an instance in seconds: 0
+Std. dev. of  time spent in labeling an instance in second: NaN
+
+
+User: 4
+Number of datasets assigned: 1
+List of all datasets with their completeness percentage: Sentiment Dataset: %0.0	
+Total number of instances labeled: 0
+Total number of unique instances labeled: 0
+Consistency percentage of user 4: %0.0
+Average time spent in labeling an instance in seconds: 0
+Std. dev. of  time spent in labeling an instance in second: NaN
+
+
+User: 5
+Number of datasets assigned: 1
+List of all datasets with their completeness percentage: Multilabel Topic Classification Dataset: %0.0	
+Total number of instances labeled: 0
+Total number of unique instances labeled: 0
+Consistency percentage of user 5: %0.0
+Average time spent in labeling an instance in seconds: 0
+Std. dev. of  time spent in labeling an instance in second: NaN
+
+
+User: 6
+Number of datasets assigned: 1
+List of all datasets with their completeness percentage: Sentiment Dataset: %0.0	
+Total number of instances labeled: 0
+Total number of unique instances labeled: 0
+Consistency percentage of user 6: %0.0
+Average time spent in labeling an instance in seconds: 0
+Std. dev. of  time spent in labeling an instance in second: NaN
+
+
+User: 7
+Number of datasets assigned: 2
+List of all datasets with their completeness percentage: Sentiment Dataset: %20.0	Multilabel Topic Classification Dataset: %0.0	
+Total number of instances labeled: 4
+Total number of unique instances labeled: 2
+Consistency percentage of user 7: %50.0
+Average time spent in labeling an instance in seconds: 3.175250068306923
+Std. dev. of  time spent in labeling an instance in second: 1.5805549372366314
+
+
+User: 8
+Number of datasets assigned: 2
+List of all datasets with their completeness percentage: Sentiment Dataset: %0.0	Multilabel Topic Classification Dataset: %0.0	
+Total number of instances labeled: 0
+Total number of unique instances labeled: 0
+Consistency percentage of user 8: %0.0
+Average time spent in labeling an instance in seconds: 0
+Std. dev. of  time spent in labeling an instance in second: NaN
+
