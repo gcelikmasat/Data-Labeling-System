@@ -3,7 +3,9 @@
 
 ___  
 > This project is a group project of 6 people.
+> 
 > Collaborators:
+> 
 > Gökberk Çelikmasat
 > Erhan Yalnız ([Profile](https://github.com/erhanyalniz))
 > Kadir Acun ([Profile](https://github.com/kadiracunn))
